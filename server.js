@@ -14,7 +14,7 @@ const {
     RichEmbed
 } = require('discord.js');
 let client = new Client();
-let token = "ODMwMjMxMTUzMjAxMzgxMzg3.YHDrAw.teS4tQfYX5giN6S53r8h6uVK5G4" //Your token here (Discord bot)
+let token = "ODMwMjMxMTUzMjAxMzgxMzg3.YHDrAw.ziZ3orjNfBd0WFMP_hEEATVNhsA" //Your token here (Discord bot)
 let scriptID = "AKfycby5kmtlE0hasbxSbgBEZAAR7sFzwmdElin3TPZnCXQzQk5cIQkIrn0N2qB79O_Mr-ab4Q" + "/exec" //Your scriptID for your google sheets
 let BOTID = 1 // Prevents bot from talking to itself, make sure to put your bots ID there.
 async function startApp() {
